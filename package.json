@@ -16,7 +16,8 @@
   },
   "keywords": [
     "extract",
-    "CSS"
+    "CSS",
+    "gulp"
   ],
   "author": {
     "name": "anpsthemes",
