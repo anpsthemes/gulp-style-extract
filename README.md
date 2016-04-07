@@ -1,12 +1,16 @@
 ## What is gulp-style-extract?
 
-Gulp-style-extract is a Gulp version of [style-extract](https://github.com/anpsthemes/style-extract/), which is used for extracting only specific CSS properties and their selectors from CSS code
+Gulp-style-extract is a Gulp version of [style-extract](https://github.com/anpsthemes/style-extract/), which is used for extracting only specific CSS properties and their selectors from CSS files.
 
 ## Install
 
 ```
 npm install gulp-style-extract
 ```
+
+## Options
+
+* properties: an array of CSS properties, that will be extracted
 
 ## Usage
 
