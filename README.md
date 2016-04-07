@@ -58,7 +58,7 @@ gulp.task('default', ['extract']);
 The Grunt version can be found at [grunt-style-extract](https://www.npmjs.com/package/grunt-style-extract).
 
 ## Node version
-The Node version can be found at [gulp-style-extract](https://www.npmjs.com/package/style-extract).
+The Node version can be found at [style-extract](https://www.npmjs.com/package/style-extract).
 
 ## License
 
