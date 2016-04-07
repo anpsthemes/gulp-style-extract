@@ -1,0 +1,34 @@
+{
+  "name": "gulp-style-extract",
+  "version": "1.0.0",
+  "description": "Extract properties from CSS files",
+  "main": "index.js",
+  "homepage": "https://github.com/anpsthemes/gulp-style-extract",
+  repository": {
+    "type": "git",
+    "url": "https://github.com/anpsthemes/gulp-style-extract.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anpsthemes/gulp-style-extract/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "extract",
+    "CSS"
+  ],
+  "author": {
+    "name": "anpsthemes",
+    "email": "support@anpsthemes.com",
+    "url": "http://anpsthemes.com/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "style-extract": "^1.0.0",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
